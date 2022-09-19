@@ -1,2 +1,5 @@
 flask
 flask-SQLAlchemy
+
+every file except the main.py should be in a directory named 'url_shortner'
+another directory should be created inside the url_shortner directory and named templates. The html files should be in this templates file.
